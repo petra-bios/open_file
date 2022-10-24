@@ -1,5 +1,3 @@
-## 3.1.0
-* Support FFI 1.0.0
 ## 3.0.3
 * upgrade compileSdkVersion
 ## 3.0.2
